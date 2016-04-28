@@ -1,0 +1,9 @@
+name: playShiny
+account: ericlawton
+server: shinyapps.io
+appId: 98336
+bundleId: 435090
+url: https://ericlawton.shinyapps.io/playShiny/
+when: 1461698290.12953
+asMultiple: FALSE
+asStatic: FALSE
